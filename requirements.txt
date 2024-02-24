@@ -2,7 +2,7 @@ numpy==1.26.3
 pandas==2.2.0
 pandas-ta==0.3.14b
 
-ccxt==4.2.36
+ccxt==4.2.46
 cryptography==42.0.2
 aiohttp==3.9.3
 SQLAlchemy==2.0.25
